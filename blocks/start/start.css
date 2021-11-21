@@ -1,0 +1,7 @@
+.start {
+  margin: 0 auto;
+  max-width: 1920px;
+  background-image: url(../../images/page-image.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}

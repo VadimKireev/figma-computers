@@ -1,0 +1,10 @@
+.quick-start__scale-item-text {
+  margin: 0;
+  margin-top: 35px;
+  font-size: 14px;
+  line-height: 160%;
+  font-weight: normal;
+  color: white;
+  opacity: .5;
+  max-width: 306px;
+}

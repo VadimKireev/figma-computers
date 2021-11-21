@@ -1,0 +1,7 @@
+.stats__counts {
+  margin: 0;
+  max-width: 1046px;
+  display: grid;
+  grid-template-columns: 251px 714px;
+  gap: 10px 81px;
+}

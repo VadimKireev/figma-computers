@@ -1,0 +1,10 @@
+.quick-start__title {
+  margin: 0;
+  margin-left: 40px;
+  padding: 0;
+  font-size: 48px;
+  line-height: 140%;
+  font-weight: bold;
+  color: white;
+  align-self: flex-end;
+}

@@ -1,0 +1,5 @@
+.quick-start__scale-item {
+  max-width: 324px;
+  display: flex;
+  flex-direction: column;
+}

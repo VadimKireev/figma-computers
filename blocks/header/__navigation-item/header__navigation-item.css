@@ -1,0 +1,7 @@
+.header__navigation-item {
+  margin-right: 56px;
+}
+
+.header__navigation-item:last-child {
+  margin-right: 0;
+}

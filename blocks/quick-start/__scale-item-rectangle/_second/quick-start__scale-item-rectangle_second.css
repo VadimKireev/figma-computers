@@ -1,0 +1,6 @@
+.quick-start__scale-item-rectangle_second {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 60px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}

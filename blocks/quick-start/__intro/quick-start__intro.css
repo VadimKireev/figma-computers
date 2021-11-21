@@ -1,0 +1,11 @@
+.quick-start__intro {
+  margin: 0;
+  margin-left: 312px;
+  padding: 0;
+  display: flex;
+  max-width: 506.78px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}

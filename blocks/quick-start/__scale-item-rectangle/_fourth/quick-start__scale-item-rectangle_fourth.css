@@ -1,0 +1,6 @@
+.quick-start__scale-item-rectangle_fourth {
+  margin-top: 35px;
+  margin-bottom: 35px;
+  height: 10px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}

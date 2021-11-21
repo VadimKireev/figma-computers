@@ -1,8 +1,8 @@
 .page {
-  min-width: 300px;
+  min-width: 320px;
   margin: 0 auto;
-  font-family: 'Roboto', Arial, sans-serif;
   background-image: url(../../images/page-background.png);
+  font-family: 'Roboto', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;

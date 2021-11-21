@@ -1,0 +1,7 @@
+.big-title__timer {
+  margin: 50px 0 0 0;
+  padding: 0 0 218px 0;
+  display: flex;
+  width: 522px;
+  justify-content: space-between;
+}

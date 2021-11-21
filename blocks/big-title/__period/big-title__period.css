@@ -1,0 +1,10 @@
+.big-title__period {
+  margin: 0 30px 20px 30px;
+  padding: 0;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: normal;
+  text-align: center;
+  color: white;
+  opacity: 0.4;
+}

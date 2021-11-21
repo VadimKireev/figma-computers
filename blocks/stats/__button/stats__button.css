@@ -1,0 +1,21 @@
+.stats__button {
+  margin: 7px 81px 7px 0;
+  padding: 0;
+  width: 169px;
+  height: 44px;
+  color: white;
+  border: 0;
+  background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: bold;
+  transition: all 500ms ease;
+}
+
+.stats__button:hover {
+  background: rgba(0,0,0,0);
+	color: #DF5950;
+	box-shadow: inset 0 0 0 3px #DF5950;
+}

@@ -1,0 +1,9 @@
+.stats__text_type_grey {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: normal;
+  color: white;
+  opacity: .4;
+}
